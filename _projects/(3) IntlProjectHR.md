@@ -7,7 +7,19 @@ description: Modular application for the management of international projects an
 
 # IntlProjectHR
 
-The Movies Project is something like **Netflix**, the only difference is that **it's not real**! It doesn't exist! I just created it to demonstrate how the **showcase** page looks like and how you can write whatever you want with full markdown support.
+This project proposes a modular architecture capable of managing international cooperation
+projects based on the software currently used by the International Relations Office of the
+UGR for this purpose. Additionally, an extra module will be developed for human resources
+management, especially time management in projects, implementing timesheet tools.
+
+For this purpose, existing systems will be analysed, both modular and project management
+systems, in order to obtain the necessary information to be able to develop the basis of the project.
+
+Information such as the design that they follow or the navigability between modules will be
+used to make a design proposal that meets the requirements that must be met in order to manage projects correctly.
+
+The proposed design is then implemented by creating an application called IntlProjectHR which is supported by a database created specifically for the project.
+
 
 ![preview](https://www.sketchappsources.com/resources/source-image/we-were-soldiers-landing-page-dbruggisser.jpg)
 
