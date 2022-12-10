@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : Argelion14
 description         : >-
-                      Ingeniero informático y ADE, apasionado por los proyectos de cooperación :rocket:.
+                      Computer engineer and graduate in business administration and management. :rocket:.
 baseurl             : "/"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : argelion14/argelion14.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
