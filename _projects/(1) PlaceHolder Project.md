@@ -1,7 +1,11 @@
 ---
-name: PlaceHolder Project
-tools: [nothing, important]
+name: IntlProjectHR
+tools: [Framework Django, MySQL]
 image: https://www.sketchappsources.com/resources/source-image/project-neon-groove-music-ui.png
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-external_url: https://www.google.com
+description: Modular application for the management of international projects
+and application of a module for the management of human
+resources: the case of the International Relations Office of the
+UGR
+.
+external_url: https://github.com/argelion14/TFG-angel-amadeo-gonzalez-ruiz
 ---
